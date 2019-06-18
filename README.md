@@ -1,0 +1,5 @@
+# Predicting-Popularity-through-user-text-reviews
+Predicting whether a clothing item can be popular or not based on the text in the user reviews
+
+
+Popularity among customers drives sales and profits for businesses and reviews greatly influence popularity of products. especially online. The project aimed to analyze customer reviews in order to predict popularity of clothing from a retail website. The products with highest number of reviews formed the basis of the analysis as they were denoted the most popular. A corpus of all their reviews was assembled by removing the stop words and punctuations. Part of speech tagging was implemented to identify the adjectives. For each clothing, occurrence of the most frequent adjectives was considered and the resulting data was partitioned into training and validation. Logistic regression and decision trees were chosen as models and trained with 50 adjectives as predictors and “Popular” as a binary outcome. Ultimately, the models were successful in predicting, based on the presence of certain key adjectives, whether the clothing was popular with 96-98% accuracy.
