@@ -1,4 +1,4 @@
-# Predicting-Popularity-through-user-text-reviews
+# Predicting apparel popularity-through-user-text-reviews
 Predicting whether a clothing item can be popular or not based on the text in the user reviews
 
 
